@@ -1,0 +1,69 @@
+INFO - Logging events
+INFO - Before navigating to: 'https://www.calculator.net/finance-calculator.html'
+INFO - Navigated to:'https://www.calculator.net/finance-calculator.html'
+INFO - Trying to find Element By : By.xpath: //a[text() = 'FV']
+INFO - Found Element By : By.xpath: //a[text() = 'FV']
+INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c1d5b3431206856ff21493ed4a8aa7d3)] -> xpath: //a[text() = 'FV']]
+INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (c1d5b3431206856ff21493ed4a8aa7d3)] -> xpath: //a[text() = 'FV']]
+INFO - Trying to find Element By : By.xpath: //input[@id='cyearsv']
+INFO - Found Element By : By.xpath: //input[@id='cyearsv']
+INFO - Trying to find Element By : By.xpath: //input[@id='cyearsv']
+INFO - Found Element By : By.xpath: //input[@id='cyearsv']
+INFO - Trying to find Element By : By.xpath: .//ancestor::table[1]
+INFO - Found Element By : By.xpath: .//ancestor::table[1]
+INFO - Trying to find Element By : By.xpath: //input[@id='cyearsv']
+INFO - Found Element By : By.xpath: //input[@id='cyearsv']
+INFO - CHnaged value of [[ChromeDriver: chrome on WINDOWS (c1d5b3431206856ff21493ed4a8aa7d3)] -> xpath: //input[@id='cyearsv']] by null
+INFO - Trying to find Element By : By.xpath: //input[@id='ccontributeamountv']
+INFO - Found Element By : By.xpath: //input[@id='ccontributeamountv']
+INFO - Trying to find Element By : By.xpath: //input[@id='ccontributeamountv']
+INFO - Found Element By : By.xpath: //input[@id='ccontributeamountv']
+INFO - Trying to find Element By : By.xpath: .//ancestor::table[1]
+INFO - Found Element By : By.xpath: .//ancestor::table[1]
+INFO - Trying to find Element By : By.xpath: //input[@id='ccontributeamountv']
+INFO - Found Element By : By.xpath: //input[@id='ccontributeamountv']
+INFO - CHnaged value of [[ChromeDriver: chrome on WINDOWS (c1d5b3431206856ff21493ed4a8aa7d3)] -> xpath: //input[@id='ccontributeamountv']] by null
+INFO - Trying to find Element By : By.xpath: //input[@id='cinterestratev']
+INFO - Found Element By : By.xpath: //input[@id='cinterestratev']
+INFO - Trying to find Element By : By.xpath: //input[@id='cinterestratev']
+INFO - Found Element By : By.xpath: //input[@id='cinterestratev']
+INFO - Trying to find Element By : By.xpath: .//ancestor::table[1]
+INFO - Found Element By : By.xpath: .//ancestor::table[1]
+INFO - Trying to find Element By : By.xpath: //input[@id='cinterestratev']
+INFO - Found Element By : By.xpath: //input[@id='cinterestratev']
+INFO - CHnaged value of [[ChromeDriver: chrome on WINDOWS (c1d5b3431206856ff21493ed4a8aa7d3)] -> xpath: //input[@id='cinterestratev']] by null
+INFO - Trying to find Element By : By.xpath: //input[@id='cstartingprinciplev']
+INFO - Found Element By : By.xpath: //input[@id='cstartingprinciplev']
+INFO - Trying to find Element By : By.xpath: //input[@id='cstartingprinciplev']
+INFO - Found Element By : By.xpath: //input[@id='cstartingprinciplev']
+INFO - Trying to find Element By : By.xpath: .//ancestor::table[1]
+INFO - Found Element By : By.xpath: .//ancestor::table[1]
+INFO - Trying to find Element By : By.xpath: //input[@id='cstartingprinciplev']
+INFO - Found Element By : By.xpath: //input[@id='cstartingprinciplev']
+INFO - CHnaged value of [[ChromeDriver: chrome on WINDOWS (c1d5b3431206856ff21493ed4a8aa7d3)] -> xpath: //input[@id='cstartingprinciplev']] by null
+INFO - Trying to find Element By : By.xpath: //input[@id='ctargetamountv']
+INFO - Found Element By : By.xpath: //input[@id='ctargetamountv']
+INFO - Trying to find Element By : By.xpath: //input[@id='ctargetamountv']
+INFO - Found Element By : By.xpath: //input[@id='ctargetamountv']
+INFO - Trying to find Element By : By.xpath: .//ancestor::table[1]
+INFO - Found Element By : By.xpath: .//ancestor::table[1]
+INFO - Trying to find Element By : By.xpath: //input[@id='cyearsv']
+INFO - Found Element By : By.xpath: //input[@id='cyearsv']
+INFO - CHnaged value of [[ChromeDriver: chrome on WINDOWS (c1d5b3431206856ff21493ed4a8aa7d3)] -> xpath: //input[@id='cyearsv']] by [Ljava.lang.CharSequence;@2e6a5539
+INFO - Trying to find Element By : By.xpath: //input[@id='cstartingprinciplev']
+INFO - Found Element By : By.xpath: //input[@id='cstartingprinciplev']
+INFO - CHnaged value of [[ChromeDriver: chrome on WINDOWS (c1d5b3431206856ff21493ed4a8aa7d3)] -> xpath: //input[@id='cstartingprinciplev']] by [Ljava.lang.CharSequence;@6ed3f258
+INFO - Trying to find Element By : By.xpath: //input[@id='cinterestratev']
+INFO - Found Element By : By.xpath: //input[@id='cinterestratev']
+INFO - CHnaged value of [[ChromeDriver: chrome on WINDOWS (c1d5b3431206856ff21493ed4a8aa7d3)] -> xpath: //input[@id='cinterestratev']] by [Ljava.lang.CharSequence;@24111ef1
+INFO - Trying to find Element By : By.xpath: //input[@id='ccontributeamountv']
+INFO - Found Element By : By.xpath: //input[@id='ccontributeamountv']
+INFO - CHnaged value of [[ChromeDriver: chrome on WINDOWS (c1d5b3431206856ff21493ed4a8aa7d3)] -> xpath: //input[@id='ccontributeamountv']] by [Ljava.lang.CharSequence;@6a55299e
+INFO - Trying to find Element By : By.xpath: //label[text()='beginning']/input
+INFO - Found Element By : By.xpath: //label[text()='beginning']/input
+INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c1d5b3431206856ff21493ed4a8aa7d3)] -> xpath: //label[text()='beginning']/input]
+INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (c1d5b3431206856ff21493ed4a8aa7d3)] -> xpath: //label[text()='beginning']/input]
+INFO - Trying to find Element By : By.xpath: //input[@alt='Calculate']
+INFO - Found Element By : By.xpath: //input[@alt='Calculate']
+INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c1d5b3431206856ff21493ed4a8aa7d3)] -> xpath: //input[@alt='Calculate']]
+INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (c1d5b3431206856ff21493ed4a8aa7d3)] -> xpath: //input[@alt='Calculate']]
