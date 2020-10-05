@@ -1,20 +1,20 @@
-#Selenium Hybrid Framework
+#Selenium Hybrid Framework:
 A Selenium Webdriver Hybrid Framework 
 
-#Keywords
+#Keywords:
 Define the steps for a Test case, easy to maintain
 Objects for actions are kept centrally to reduce maintenance 
 
-#TestCase
+#TestCase:
 Set of Test Cases under ExcelData with a facility to choose 'Y' and 'N' for execution.
 
-#Java Version
+#Java Version:
 Java 9
 
-#DriverExecute
+#DriverExecute:
 Running ReadExcelSheet would Read all the test cases and execute the steps in Test Case selected for execution.
 
-#EventListeners and Logger
+#EventListeners and Logger:
 Added Event Listener and Logger
 
 
